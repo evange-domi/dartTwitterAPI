@@ -9,4 +9,4 @@ environment:
 
 dependencies:
   http:
-  crypto: ^2.1.3
+  crypto:
